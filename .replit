@@ -1,0 +1,2 @@
+language = "c"
+run = "clang-7 -pthread -lm -o 2020-10-08_Test 2020-10-08_Test.c;./2020-10-08_Test"    
